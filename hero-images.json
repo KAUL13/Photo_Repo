@@ -414,8 +414,8 @@
     "DateTimeOriginal": "2022-08-04T23:46:15.000Z"
   },
   {
-    "name": "Nocturnal_001.jpg?raw=true",
-    "path": "https://github.com/KAUL13/Photo_Repo/blob/main/Nocturnal/Nocturnal_001.jpg?raw=true",
+    "name": "Nocturnal_001.jpg",
+    "path": "https://raw.githubusercontent.com/KAUL13/Photo_Repo/main/Nocturnal/Nocturnal_001.jpg",
     "categories": [
       "Nocturnal"
     ],
