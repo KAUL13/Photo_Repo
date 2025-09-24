@@ -113,7 +113,7 @@
     "categories": [
       "Panorama"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-08-12T01:33:03.000Z",
     "ExposureTime": "1/320s",
     "FNumber": 11,
@@ -311,7 +311,7 @@
     "categories": [
       "Panorama"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2022-08-12T16:50:53.000Z",
     "ExposureTime": "1/160s",
     "FNumber": 2.8,
@@ -455,7 +455,7 @@
     "categories": [
       "Nocturnal"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2024-08-20T00:37:52.000Z",
     "ExposureTime": "1s",
     "FNumber": 8,
@@ -563,7 +563,7 @@
     "categories": [
       "Nocturnal"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2025-07-01T06:13:40.000Z",
     "ExposureTime": "15s",
     "FNumber": 2.8,
@@ -995,7 +995,7 @@
     "categories": [
       "Landscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-07-22T19:05:41.000Z",
     "ExposureTime": "2s",
     "FNumber": 5.6,
@@ -1085,7 +1085,7 @@
     "categories": [
       "Landscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-08-11T12:36:56.000Z",
     "ExposureTime": "1/5s",
     "FNumber": 6.3,
@@ -1193,7 +1193,7 @@
     "categories": [
       "Landscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-08-12T01:33:03.000Z",
     "ExposureTime": "1/320s",
     "FNumber": 11,
@@ -1229,7 +1229,7 @@
     "categories": [
       "Landscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2022-08-06T07:21:40.000Z",
     "ExposureTime": "3s",
     "FNumber": 16,
@@ -1481,7 +1481,7 @@
     "categories": [
       "Landscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2022-08-11T16:00:28.000Z",
     "ExposureTime": "1/50s",
     "FNumber": 11,
@@ -1607,7 +1607,7 @@
     "categories": [
       "Landscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2024-09-27T15:14:03.000Z",
     "ExposureTime": "1/80s",
     "FNumber": 5.6,
@@ -1877,7 +1877,7 @@
     "categories": [
       "Landscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2022-03-18T02:10:29.000Z",
     "ExposureTime": "1/3s",
     "FNumber": 8,
@@ -2165,7 +2165,7 @@
     "categories": [
       "Experimental"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-08-13T16:45:19.000Z",
     "ExposureTime": "1/125s",
     "FNumber": 5.6,
@@ -2201,7 +2201,7 @@
     "categories": [
       "Experimental"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-08-13T16:48:51.000Z",
     "ExposureTime": "1/160s",
     "FNumber": 6.3,
@@ -2291,7 +2291,7 @@
     "categories": [
       "Experimental"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2024-11-26T22:45:47.000Z",
     "ExposureTime": "1/500s",
     "FNumber": 2.8,
@@ -2363,7 +2363,7 @@
     "categories": [
       "Experimental"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-08-13T13:26:46.000Z",
     "ExposureTime": "1/40s",
     "FNumber": 6.3,
@@ -3065,7 +3065,7 @@
     "categories": [
       "Cityscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2022-12-28T23:50:42.000Z",
     "ExposureTime": "2s",
     "FNumber": 11,
@@ -3137,7 +3137,7 @@
     "categories": [
       "Cityscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-01-11T00:29:53.000Z",
     "ExposureTime": "5s",
     "FNumber": 8,
@@ -3335,7 +3335,7 @@
     "categories": [
       "Cityscape"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2024-12-22T14:36:57.000Z",
     "ExposureTime": "1/8s",
     "FNumber": 2.8,
@@ -3443,7 +3443,7 @@
     "categories": [
       "Aerial"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-08-14T01:37:19.000Z",
     "ExposureTime": "1/400s",
     "FNumber": 2.8,
@@ -3461,7 +3461,7 @@
     "categories": [
       "Aerial"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2022-08-06T20:36:46.000Z",
     "ExposureTime": "1/1000s",
     "FNumber": 2.8,
@@ -3515,7 +3515,7 @@
     "categories": [
       "Aerial"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2023-10-08T05:12:37.000Z",
     "ExposureTime": "1/100s",
     "FNumber": 2.8,
@@ -3695,7 +3695,7 @@
     "categories": [
       "Aerial"
     ],
-    "isHeroPicture": false,
+    "isHeroPicture": true,
     "DateTimeOriginal": "2024-09-27T11:09:26.000Z",
     "ExposureTime": "1/1250s",
     "FNumber": 2.8,
